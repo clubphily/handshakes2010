@@ -1,5 +1,5 @@
 # Handshakes 2010
-A cooperation with [Brigitte Daetwyler](http://www.brigittedaetwyler.ch) and [Johnny Nia](http://johnnynia.ch).
+A cooperation with [Brigitte Daetwyler](http://www.brigittedaetwyler.ch) and [Johnny Nia](http://johnnynia.ch). The installation was accepted at the [Swiss Art Awards 2010](https://en.wikipedia.org/wiki/Swiss_Art_Awards) in Basel.
 
 ## Idea
 [Mobile phones are operating as virtual agents. These virtual Agents are sharing their explicit footage via Bluetooth. The more animations a mobile phone has, the faster it starts displaying them until it vibrates and displays a biting mouth. Then the search for new input starts again.](http://www.brigittedaetwyler.ch/mixed_media/handshakes)
